@@ -1,1 +1,1 @@
-# opevpn_on_ec2
+# openvpn_on_ec2
